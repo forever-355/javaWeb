@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/04_jsp/04_jsp.iml" filepath="$PROJECT_DIR$/04_jsp/04_jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_cookie&amp;session/06_cookie&amp;session.iml" filepath="$PROJECT_DIR$/06_cookie&amp;session/06_cookie&amp;session.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_filter/07_filter.iml" filepath="$PROJECT_DIR$/07_filter/07_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/08_json&amp;ajax&amp;i18n.iml" filepath="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/08_json&amp;ajax&amp;i18n.iml" />
       <module fileurl="file://$PROJECT_DIR$/0999_jQuary/0999_jQuary.iml" filepath="$PROJECT_DIR$/0999_jQuary/0999_jQuary.iml" />
       <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaWeb.iml" filepath="$PROJECT_DIR$/.idea/javaWeb.iml" />
