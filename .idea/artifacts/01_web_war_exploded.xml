@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="01_web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/01_web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="01_web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="01_web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="taglibs-standard-spec-1.2.1" module-name="01_web" />
+          <element id="library" level="module" name="druid-1.1.9" module-name="01_web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

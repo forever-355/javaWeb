@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_web/01_web.iml" filepath="$PROJECT_DIR$/01_web/01_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_servlet/02_servlet.iml" filepath="$PROJECT_DIR$/02_servlet/02_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_servlet2/03_servlet2.iml" filepath="$PROJECT_DIR$/03_servlet2/03_servlet2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_jsp/04_jsp.iml" filepath="$PROJECT_DIR$/04_jsp/04_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_cookie&amp;session/06_cookie&amp;session.iml" filepath="$PROJECT_DIR$/06_cookie&amp;session/06_cookie&amp;session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_filter/07_filter.iml" filepath="$PROJECT_DIR$/07_filter/07_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0999_jQuary/0999_jQuary.iml" filepath="$PROJECT_DIR$/0999_jQuary/0999_jQuary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaWeb.iml" filepath="$PROJECT_DIR$/.idea/javaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWeb.iml" filepath="$PROJECT_DIR$/javaWeb.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="07_filter:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="033f99a1-b6c8-405e-b3b2-79b44f1ca4bd" name="Default Changelist" comment="尚硅谷的javaWeb笔记代码">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/01_web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/02_servlet_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/03_servlet2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/04_jsp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/06_cookie_session_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/07_filter_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/book_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/javaWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/01_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_web/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/02_servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/ContextServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/ContextServlet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/ContextServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/HelloServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/HelloServlet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/web/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/web/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/web/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_servlet/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/03_servlet2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/ForwardC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/ParameterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/RequestAPIServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/Response1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/Response2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/ResponseIOServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/Servlet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/Servlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/web/a/b/c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/web/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_servlet2/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/04_jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/Listener/MyServletContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/PringHtml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/SeachStudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/projo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/b.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/errorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/include/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/include/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/scope.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/test/test1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_jsp/web/test/test2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/06_cookie&amp;session.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/BaseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/SessionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/Utils/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/web/cookie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_cookie&amp;session/web/session.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/07_filter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/src/com/javaweb/filter/AdminFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/src/com/javaweb/filter/Filter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/src/com/javaweb/filter/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/web/admin/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/web/admin/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/web/admin/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_filter/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/0999_jQuary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo01.入门/01.HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo01.入门/01.HelloWorld_.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo01.入门/02.$的本质.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo01.入门/03.核心函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo01.入门/04.DOM对象和jQuery对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo02.选择器/01.基本选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo02.选择器/02.层次选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo02.选择器/03.基本的过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo02.选择器/04.内容过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo02.选择器/05.可见性过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo02.选择器/06.属性过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo02.选择器/08.表单对象属性过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo02.选择器/09.元素筛选方法__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo03.DOM操作/2、dom属性操作___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo03.DOM操作/3、dom增删改___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo03.DOM操作/style/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo04.CSS样式操作/jqueryCss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo04.CSS样式操作/jqueryCss___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo04.CSS样式操作/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/01.文档加载/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/01.文档加载/load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/01.文档加载/load___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/02.事件绑定/bind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/02.事件绑定/bind____.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/02.事件绑定/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/03.事件移除/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/03.事件移除/style/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/03.事件移除/style/css.css.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/03.事件移除/unbind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/03.事件移除/unbind___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/04.事件冒泡/bubble.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/04.事件冒泡/bubble___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/04.事件冒泡/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/05.事件对象/eventObj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/05.事件对象/eventObj__emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo05.事件/05.事件对象/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo06.动画/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo06.动画/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo06.动画/动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/Demo06.动画/动画__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习01 选择器练习01 隔行变色/ex_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习01 选择器练习01 隔行变色/ex_3_emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习01 选择器练习01 隔行变色/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习02 选择器练习02 全选全不选/ex-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习02 选择器练习02 全选全不选/ex-4__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习03 选择器练习03 表单选择器/ex_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习03 选择器练习03 表单选择器/ex_5_emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习03 选择器练习03 表单选择器/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习03 选择器练习03 表单选择器/表单选择器练习_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习03 选择器练习03 表单选择器/表单选择器练习_5__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习04 DOM操作01 selected/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习04 DOM操作01 selected/selected.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习04 DOM操作01 selected/selected空白.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习04 DOM操作01 selected/从左到右，从右到左.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习04 DOM操作01 selected/从左到右，从右到左__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习05 DOM操作02 添加删除记录/ex-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习05 DOM操作02 添加删除记录/ex-5___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习05 DOM操作02 添加删除记录/styleB/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习05 DOM操作02 添加删除记录/添加删除记录-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习05 DOM操作02 添加删除记录/添加删除记录-5___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs空白.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习06 CSS_动画 品牌展示/img/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习06 CSS_动画 品牌展示/img/up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习06 CSS_动画 品牌展示/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习07 事件 图片跟随/img/big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习07 事件 图片跟随/img/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习07 事件 图片跟随/imgFollow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习07 事件 图片跟随/imgFollow__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习07 事件 图片跟随/imgFollow空白.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0999_jQuary/Demo/练习/☆练习07 事件 图片跟随/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/com/javaWeb/web/BaseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/cart/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/cart/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/book_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/book_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/order_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/order/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/user/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/user/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/pages/user/regist_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/img/code.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/img/pwd-icons-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/web/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/font标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/iframe标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/javaWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/特殊字符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/表格标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/表格跨行.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/超链接标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/01_web_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/WEB-INF/classes/META-INF/02_servlet.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/WEB-INF/classes/com/javaweb/servlet/ContextServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/WEB-INF/classes/com/javaweb/servlet/ContextServlet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/WEB-INF/classes/com/javaweb/servlet/ContextServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/WEB-INF/classes/com/javaweb/servlet/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/WEB-INF/classes/com/javaweb/servlet/HelloServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/WEB-INF/classes/com/javaweb/servlet/HelloServlet3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded2/WEB-INF/classes/com/javaweb/servlet/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded2/WEB-INF/classes/com/javaweb/servlet/HelloServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded2/WEB-INF/classes/com/javaweb/servlet/HelloServlet3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded2/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded2/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded2/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/02_servlet_war_exploded2/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/classes/META-INF/03_servlet2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/classes/com/javaweb/servlet/ForwardC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/classes/com/javaweb/servlet/ParameterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/classes/com/javaweb/servlet/RequestAPIServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/classes/com/javaweb/servlet/Response1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/classes/com/javaweb/servlet/Response2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/classes/com/javaweb/servlet/ResponseIOServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/classes/com/javaweb/servlet/Servlet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/classes/com/javaweb/servlet/Servlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/a/b/c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/03_servlet2_war_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/WEB-INF/classes/META-INF/04_jsp.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/WEB-INF/classes/com/javaWeb/servlet/Listener/MyServletContextListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/WEB-INF/classes/com/javaWeb/servlet/PringHtml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/WEB-INF/classes/com/javaWeb/servlet/SeachStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/WEB-INF/classes/com/javaWeb/servlet/projo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/b.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/errorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/include/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/include/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/scope.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/test/test1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/04_jsp_war_exploded/test/test2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/WEB-INF/classes/META-INF/06_cookie&amp;session.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/WEB-INF/classes/com/javaWeb/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/WEB-INF/classes/com/javaWeb/servlet/CookieServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/WEB-INF/classes/com/javaWeb/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/WEB-INF/classes/com/javaWeb/servlet/SessionServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/WEB-INF/classes/com/javaWeb/servlet/Utils/CookieUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/cookie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/06_cookie_session_war_exploded/session.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/WEB-INF/classes/META-INF/07_filter.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/WEB-INF/classes/com/javaweb/filter/AdminFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/WEB-INF/classes/com/javaweb/filter/Filter1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/WEB-INF/classes/com/javaweb/filter/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/admin/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/admin/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/admin/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/07_filter_war_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/02_servlet/META-INF/02_servlet.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/ContextServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/ContextServlet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/ContextServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/HelloServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/HelloServlet3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03_servlet2/META-INF/03_servlet2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/ForwardC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/ParameterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/RequestAPIServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/Response1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/Response2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/ResponseIOServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/Servlet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/Servlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/04_jsp/META-INF/04_jsp.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/04_jsp/com/javaWeb/servlet/Listener/MyServletContextListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/04_jsp/com/javaWeb/servlet/PringHtml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/04_jsp/com/javaWeb/servlet/SeachStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/04_jsp/com/javaWeb/servlet/projo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_cookie&amp;session/META-INF/06_cookie&amp;session.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_cookie&amp;session/com/javaWeb/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_cookie&amp;session/com/javaWeb/servlet/CookieServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_cookie&amp;session/com/javaWeb/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_cookie&amp;session/com/javaWeb/servlet/SessionServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/06_cookie&amp;session/com/javaWeb/servlet/Utils/CookieUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_filter/META-INF/07_filter.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_filter/com/javaweb/filter/AdminFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_filter/com/javaweb/filter/Filter1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/07_filter/com/javaweb/filter/servlet/LoginServlet.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_filter/src/com/javaweb/filter/AdminFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_filter/src/com/javaweb/filter/Filter1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_filter/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/02_servlet/src/com/javaweb/servlet/ContextServlet1.java" />
+        <option value="$PROJECT_DIR$/02_servlet/src/com/javaweb/servlet/ContextServlet2.java" />
+        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/ServletRequest.java" />
+        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/RequestAPIServlet.java" />
+        <option value="$PROJECT_DIR$/03_servlet2/web/form.html" />
+        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/ParameterServlet.java" />
+        <option value="$PROJECT_DIR$/03_servlet2/web/index.css" />
+        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/Servlet1.java" />
+        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/Servlet2.java" />
+        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/ForwardC.java" />
+        <option value="$PROJECT_DIR$/03_servlet2/web/index.html" />
+        <option value="$PROJECT_DIR$/03_servlet2/web/a/b/c.html" />
+        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/ResponseIOServlet.java" />
+        <option value="$PROJECT_DIR$/03_servlet2/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/Response2.java" />
+        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/Response1.java" />
+        <option value="$PROJECT_DIR$/04_jsp/web/1.html" />
+        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/PringHtml.java" />
+        <option value="$PROJECT_DIR$/04_jsp/web/b.jsp" />
+        <option value="$PROJECT_DIR$/04_jsp/web/errorPage.jsp" />
+        <option value="$PROJECT_DIR$/04_jsp/web/a.jsp" />
+        <option value="$PROJECT_DIR$/04_jsp/web/output.jsp" />
+        <option value="$PROJECT_DIR$/04_jsp/web/include/main.jsp" />
+        <option value="$PROJECT_DIR$/04_jsp/web/include/footer.jsp" />
+        <option value="$PROJECT_DIR$/04_jsp/web/scope.jsp" />
+        <option value="$PROJECT_DIR$/04_jsp/web/test/test1.jsp" />
+        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/projo/SeachStudentServlet.java" />
+        <option value="$PROJECT_DIR$/04_jsp/web/test/test2.jsp" />
+        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/projo/Student.java" />
+        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/SeachStudentServlet.java" />
+        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/Listener/MyServletContextListener.java" />
+        <option value="$PROJECT_DIR$/04_jsp/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/book/src/com/javaWeb/web/BaseServlet.java" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/Utils/CookieUtils.java" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/CookieServlet.java" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/web/cookie.html" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/web/logoin.jsp" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/web/login.jsp" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/BaseServlet.java" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/web/session.html" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/SessionServlet.java" />
+        <option value="$PROJECT_DIR$/07_filter/web/admin/a.html" />
+        <option value="$PROJECT_DIR$/07_filter/web/admin/a.jsp" />
+        <option value="$PROJECT_DIR$/07_filter/web/login.jsp" />
+        <option value="$PROJECT_DIR$/07_filter/src/com/javaweb/filter/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/07_filter/src/com/javaweb/filter/AdminFilter.java" />
+        <option value="$PROJECT_DIR$/07_filter/src/com/javaweb/filter/servlet/Filter1.java" />
+        <option value="$PROJECT_DIR$/07_filter/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/07_filter/src/com/javaweb/filter/Filter1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="250" />
+    <option name="y" value="171" />
+    <option name="width" value="1475" />
+    <option name="height" value="865" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\StudyJava\javaWeb\07_filter\web" />
+      <recent name="D:\StudyJava\javaWeb\02_servlet\web\imgs" />
+      <recent name="D:\StudyJava\javaWeb\html" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.javaWeb.web" />
+      <recent name="com.javaweb.servlet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\StudyJava\javaWeb\07_filter\web\WEB-INF" />
+      <recent name="D:\StudyJava\javaWeb\07_filter\web\admin" />
+      <recent name="D:\StudyJava\javaWeb\06_cookie&amp;session\web" />
+      <recent name="D:\StudyJava\javaWeb\06_cookie&amp;session\src\com\javaWeb\servlet" />
+      <recent name="D:\StudyJava\javaWeb\book\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.07_filter">
+    <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javaWeb/html/hello.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="01_web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="01_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/01_web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_39_javaWeb" />
+        <option name="HTTP_PORT" value="8082" />
+        <option name="JNDI_PORT" value="1097" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51490" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="01_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="02_servlet" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="02_servlet:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/02_servlet" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_39_javaWeb_2" />
+        <option name="HTTP_PORT" value="8083" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55887" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="02_servlet:war exploded" />
+          <artifact name="02_servlet:war exploded" />
+          <artifact name="02_servlet:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="03_servlet2" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="03_servlet2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/03_servlet2" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_39_javaWeb_3" />
+        <option name="HTTP_PORT" value="8085" />
+        <option name="JNDI_PORT" value="10993" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59099" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="03_servlet2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="04_jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="04_jsp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/04_jsp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_39_javaWeb_4" />
+        <option name="HTTP_PORT" value="8086" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59599" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="04_jsp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="06_cookie&amp;session" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="06_cookie&amp;session:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/06_cookie&amp;session" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_39_javaWeb_5" />
+        <option name="HTTP_PORT" value="8087" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58447" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="06_cookie&amp;session:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="07_filter" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="07_filter:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/07_filter" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_39_javaWeb_6" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56663" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="07_filter:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.hello.html" />
+      <item itemvalue="Tomcat Server.01_web" />
+      <item itemvalue="Tomcat Server.02_servlet" />
+      <item itemvalue="Tomcat Server.03_servlet2" />
+      <item itemvalue="Tomcat Server.04_jsp" />
+      <item itemvalue="Tomcat Server.06_cookie&amp;session" />
+      <item itemvalue="Tomcat Server.07_filter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.hello.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="033f99a1-b6c8-405e-b3b2-79b44f1ca4bd" name="Default Changelist" comment="" />
+      <created>1600933819824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600933819824</updated>
+      <workItem from="1600933823101" duration="6939000" />
+      <workItem from="1601040196441" duration="4438000" />
+      <workItem from="1601191216947" duration="7000" />
+      <workItem from="1601191238394" duration="817000" />
+      <workItem from="1601275807536" duration="608000" />
+      <workItem from="1602833741900" duration="1237000" />
+      <workItem from="1603291893617" duration="1098000" />
+      <workItem from="1603357789433" duration="19000" />
+      <workItem from="1603375676414" duration="13000" />
+      <workItem from="1603976318418" duration="5763000" />
+      <workItem from="1604025314360" duration="7534000" />
+      <workItem from="1604036192072" duration="3106000" />
+      <workItem from="1604041297912" duration="11603000" />
+      <workItem from="1604211957166" duration="46000" />
+      <workItem from="1604212056171" duration="12092000" />
+      <workItem from="1605145020462" duration="3401000" />
+      <workItem from="1605148587952" duration="3541000" />
+      <workItem from="1605236748611" duration="22568000" />
+      <workItem from="1605318276389" duration="16582000" />
+      <workItem from="1605356884006" duration="2366000" />
+      <workItem from="1605399240294" duration="7288000" />
+      <workItem from="1605773559590" duration="7950000" />
+      <workItem from="1605837447994" duration="2259000" />
+      <workItem from="1605864534007" duration="153000" />
+      <workItem from="1605872630039" duration="9301000" />
+      <workItem from="1605924791772" duration="5180000" />
+      <workItem from="1605935001362" duration="666000" />
+      <workItem from="1605940576427" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="137275000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9259259" visible="true" weight="0.2181208" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.074074075" side_tool="true" visible="true" weight="0.2181208" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17094018" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45454547" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32954547" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.1534091" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3295302" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="尚硅谷的javaWeb笔记代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="尚硅谷的javaWeb笔记代码" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/RequestAPIServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/ParameterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/ForwardC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_servlet2/web/a/b/c.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_servlet2/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/Response2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/Response1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_servlet2/src/com/javaweb/filter/servlet/ResponseIOServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_servlet2/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="82" column="22" lean-forward="true" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/static/img/logo.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/static/img/code.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/static/img/default.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/web.java" />
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/dao/impl.java" />
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/test.java" />
+    <entry file="file://$PROJECT_DIR$/book/web/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/PringHtml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/errorPage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/b.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/a.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1257">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/output.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/include/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/include/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/scope.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/test/test1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="29" column="77" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/Listener/MyServletContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/projo/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/web/test/test2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/SeachStudentServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/web/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/Utils/CookieUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/CookieServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/web/cookie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/web/session.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_filter/web/admin/11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_filter/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/SessionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_filter/web/admin/a.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_filter/web/admin/a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_filter/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_filter/src/com/javaweb/filter/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_filter/src/com/javaweb/filter/AdminFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_filter/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_filter/src/com/javaweb/filter/Filter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>02_servlet:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
