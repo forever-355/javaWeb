@@ -20,5 +20,25 @@
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.39" level="application_server_libraries" />
+    <orderEntry type="library" name="mysql-connector-java-8.0.21" level="project" />
+    <orderEntry type="library" name="junit-4.12" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.7-bin" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../01_web/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../01_web/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../01_web/web/WEB-INF/lib/kaptcha-2.3.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../01_web/web/WEB-INF/lib/junit-4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/../01_web/web/WEB-INF/lib/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../01_web/web/WEB-INF/lib/gson-2.2.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../01_web/web/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../01_web/web/WEB-INF/lib/commons-dbutils-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../01_web/web/WEB-INF/lib/commons-beanutils-1.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

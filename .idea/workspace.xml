@@ -2,14 +2,53 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="08_json&amp;ajax&amp;i18n:war exploded" />
+      <artifact name="book:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="033f99a1-b6c8-405e-b3b2-79b44f1ca4bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/08_jsonAjaxI18n_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/08_jsonAjaxI18n_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/08_jsonAjaxI18n_war_exploded2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs__3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs__4_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_7_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsonAjaxI18n/src/i18n_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsonAjaxI18n/src/i18n_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_jsonAjaxI18n/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/08_json_ajax_i18n_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/08_json&amp;ajax&amp;i18n.iml" beforeDir="false" afterPath="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/08_json&amp;ajax&amp;i18n.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/08_json&amp;ajax&amp;i18n.iml" beforeDir="false" afterPath="$PROJECT_DIR$/08_jsonAjaxI18n/08_jsonAjaxI18n.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/book/book.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/web/pages/user/regist.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/web/pages/user/regist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02_servlet/META-INF/02_servlet.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/ContextServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/ContextServlet1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/ContextServlet2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/HelloServlet2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/02_servlet/com/javaweb/servlet/HelloServlet3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_servlet2/META-INF/03_servlet2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/ForwardC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/ParameterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/RequestAPIServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/Response1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/Response2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/ResponseIOServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/Servlet1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_servlet2/com/javaweb/servlet/Servlet2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/04_jsp/META-INF/04_jsp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_cookie&amp;session/META-INF/06_cookie&amp;session.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_filter/META-INF/07_filter.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07_filter/com/javaweb/filter/Filter1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07_filter/com/javaweb/filter/Filter1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,31 +77,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/servlet/AjaxServlet.java">
+        <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/pojo/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="1056">
+              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/ajax.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/BaseDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="-1078">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="477">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/test/UserDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -76,6 +153,8 @@
         <option value="HTML File" />
         <option value="Jsp File" />
         <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -85,31 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03_servlet2/web/index.html" />
-        <option value="$PROJECT_DIR$/03_servlet2/web/a/b/c.html" />
-        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/ResponseIOServlet.java" />
-        <option value="$PROJECT_DIR$/03_servlet2/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/Response2.java" />
-        <option value="$PROJECT_DIR$/03_servlet2/src/com/javaweb/servlet/Response1.java" />
-        <option value="$PROJECT_DIR$/04_jsp/web/1.html" />
-        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/PringHtml.java" />
-        <option value="$PROJECT_DIR$/04_jsp/web/b.jsp" />
-        <option value="$PROJECT_DIR$/04_jsp/web/errorPage.jsp" />
-        <option value="$PROJECT_DIR$/04_jsp/web/a.jsp" />
-        <option value="$PROJECT_DIR$/04_jsp/web/output.jsp" />
-        <option value="$PROJECT_DIR$/04_jsp/web/include/main.jsp" />
-        <option value="$PROJECT_DIR$/04_jsp/web/include/footer.jsp" />
-        <option value="$PROJECT_DIR$/04_jsp/web/scope.jsp" />
-        <option value="$PROJECT_DIR$/04_jsp/web/test/test1.jsp" />
-        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/projo/SeachStudentServlet.java" />
-        <option value="$PROJECT_DIR$/04_jsp/web/test/test2.jsp" />
-        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/projo/Student.java" />
-        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/SeachStudentServlet.java" />
-        <option value="$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/Listener/MyServletContextListener.java" />
-        <option value="$PROJECT_DIR$/04_jsp/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/book/src/com/javaWeb/web/BaseServlet.java" />
-        <option value="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/Utils/CookieUtils.java" />
-        <option value="$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/CookieServlet.java" />
         <option value="$PROJECT_DIR$/06_cookie&amp;session/web/cookie.html" />
         <option value="$PROJECT_DIR$/06_cookie&amp;session/web/logoin.jsp" />
         <option value="$PROJECT_DIR$/06_cookie&amp;session/web/login.jsp" />
@@ -134,8 +188,33 @@
         <option value="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/BaseServlet.java" />
         <option value="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/servlet/BaseServlet.java" />
+        <option value="$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/ContextServlet.java" />
         <option value="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/servlet/AjaxServlet.java" />
         <option value="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/ajax.html" />
+        <option value="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/i18n/I18n.java" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/json/JsonTest.java" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/json/PersonListType.java" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/servlet/AjaxServlet.java" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/servlet/BaseServlet.java" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/i18n_zh_CN.properties" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/i18n_zh_US.properties" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/i18n/I18n.java" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/web/ajax.html" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/src/i18n_zh_CN.properties" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/src/i18n_en_US.properties" />
+        <option value="$PROJECT_DIR$/08_jsonAjaxI18n/web/i18n.jsp" />
+        <option value="$PROJECT_DIR$/book/src/bookStatic/pages/user/regist.html" />
+        <option value="$PROJECT_DIR$/book/web/regist.html" />
+        <option value="$PROJECT_DIR$/book/web/pages/user/regist.html" />
+        <option value="$PROJECT_DIR$/book/src/com/javaWeb/pojo/User.java" />
+        <option value="$PROJECT_DIR$/book/src/com/javaWeb/utils/JdbcUtils.java" />
+        <option value="$PROJECT_DIR$/book/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/book/src/com/javaWeb/test/JdbcUtilsTest.java" />
+        <option value="$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/BaseDao.java" />
+        <option value="$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/UserDao.java" />
+        <option value="$PROJECT_DIR$/book/src/com/javaWeb/test/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/UserDaoImpl.java" />
       </list>
     </option>
   </component>
@@ -152,11 +231,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="95" />
-    <option name="y" value="315" />
-    <option name="width" value="1475" />
-    <option name="height" value="865" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="178" />
+    <option name="y" value="61" />
+    <option name="width" value="1730" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -164,9 +243,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="08_jsonAjaxI18n" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
             <path>
               <item name="javaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
@@ -175,8 +295,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,33 +302,45 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/book/src/com/javaWeb/dao/impl" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\StudyJava\javaWeb\08_json&amp;ajax&amp;i18n\web" />
-      <recent name="D:\StudyJava\javaWeb\08_json&amp;ajax&amp;i18n\src\com\javaWeb\servlet" />
-      <recent name="D:\StudyJava\javaWeb\08_json&amp;ajax&amp;i18n\web\WEB-INF\libs" />
-      <recent name="D:\StudyJava\javaWeb\07_filter\web\WEB-INF" />
-      <recent name="D:\StudyJava\javaWeb\07_filter\web\admin" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.javaWeb.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\StudyJava\javaWeb\book\web\pages\user" />
+      <recent name="D:\StudyJava\javaWeb\book\web" />
+      <recent name="D:\StudyJava\javaWeb\08_jsonAjaxI18n\web" />
+      <recent name="D:\StudyJava\javaWeb\08_jsonAjaxI18n\src" />
+      <recent name="D:\StudyJava\javaWeb\08_jsonAjaxI18n\web\script" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.javaWeb" />
       <recent name="com.javaWeb.web" />
       <recent name="com.javaweb.servlet" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\StudyJava\javaWeb\07_filter\web" />
-      <recent name="D:\StudyJava\javaWeb\02_servlet\web\imgs" />
-      <recent name="D:\StudyJava\javaWeb\html" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\StudyJava\javaWeb\book\src\com\javaWeb\dao\impl" />
+      <recent name="D:\StudyJava\javaWeb\book\web\WEB-INF\lib" />
+      <recent name="D:\StudyJava\javaWeb\book\src\com\javaWeb\utils" />
+      <recent name="D:\StudyJava\javaWeb\book\src" />
+      <recent name="D:\StudyJava\javaWeb\book\web\pages\user" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,57 +355,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.08_json_ajax_i18n">
-    <configuration name="JsonTest.Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_json&amp;ajax&amp;i18n" />
+  <component name="RunManager" selected="JUnit.UserDaoTest.queryUserByUsername">
+    <configuration name="JdbcUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaWeb.json.*" />
+          <option name="PATTERN" value="com.javaWeb.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javaWeb.json" />
-      <option name="MAIN_CLASS_NAME" value="com.javaWeb.json.JsonTest" />
-      <option name="METHOD_NAME" value="Test3" />
+      <option name="PACKAGE_NAME" value="com.javaWeb.test" />
+      <option name="MAIN_CLASS_NAME" value="com.javaWeb.test.JdbcUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcUtilsTest.JdbcUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaWeb.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javaWeb.test" />
+      <option name="MAIN_CLASS_NAME" value="com.javaWeb.test.JdbcUtilsTest" />
+      <option name="METHOD_NAME" value="JdbcUtilsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_json&amp;ajax&amp;i18n" />
+    <configuration name="JdbcUtilsTest.testJdbcUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaWeb.json.*" />
+          <option name="PATTERN" value="com.javaWeb.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javaWeb.json" />
-      <option name="MAIN_CLASS_NAME" value="com.javaWeb.json.JsonTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.javaWeb.test" />
+      <option name="MAIN_CLASS_NAME" value="com.javaWeb.test.JdbcUtilsTest" />
+      <option name="METHOD_NAME" value="testJdbcUtils" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_json&amp;ajax&amp;i18n" />
+    <configuration name="UserDaoTest.queryUserByUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaWeb.json.*" />
+          <option name="PATTERN" value="com.javaWeb.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javaWeb.json" />
-      <option name="MAIN_CLASS_NAME" value="com.javaWeb.json.JsonTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="com.javaWeb.test" />
+      <option name="MAIN_CLASS_NAME" value="com.javaWeb.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="queryUserByUsername" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javaWeb/html/hello.html" useBuiltInWebServerPort="true">
-      <method v="2" />
     </configuration>
     <configuration name="01_web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
@@ -728,20 +870,19 @@
         </option>
       </method>
     </configuration>
-    <configuration name="08_json_ajax_i18n" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/08_json_ajax_i18n/" />
+    <configuration name="08_jsonAjaxI18n" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
-        <artifact name="08_json&amp;ajax&amp;i18n:war exploded">
+        <artifact name="08_jsonAjaxI18n:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/08_json_ajax_i18n" />
+            <option name="CONTEXT_PATH" value="/08_jsonAjaxI18n" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_39_javaWeb_7" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_39_javaWeb_9" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -749,7 +890,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="49776" />
+        <option name="DEBUG_PORT" value="62244" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -799,29 +940,106 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="08_json&amp;ajax&amp;i18n:war exploded" />
+          <artifact name="08_jsonAjaxI18n:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="book" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8090/book/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="book:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/book" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_javaWeb_2" />
+        <option name="HTTP_PORT" value="8090" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59785" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="book:war exploded" />
         </option>
       </method>
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.hello.html" />
-      <item itemvalue="JUnit.JsonTest.test1" />
-      <item itemvalue="JUnit.JsonTest.test2" />
-      <item itemvalue="JUnit.JsonTest.Test3" />
       <item itemvalue="Tomcat Server.01_web" />
       <item itemvalue="Tomcat Server.02_servlet" />
       <item itemvalue="Tomcat Server.03_servlet2" />
       <item itemvalue="Tomcat Server.04_jsp" />
       <item itemvalue="Tomcat Server.06_cookie&amp;session" />
       <item itemvalue="Tomcat Server.07_filter" />
-      <item itemvalue="Tomcat Server.08_json_ajax_i18n" />
+      <item itemvalue="Tomcat Server.08_jsonAjaxI18n" />
+      <item itemvalue="Tomcat Server.book" />
+      <item itemvalue="JUnit.JdbcUtilsTest.JdbcUtilsTest" />
+      <item itemvalue="JUnit.JdbcUtilsTest" />
+      <item itemvalue="JUnit.JdbcUtilsTest.testJdbcUtils" />
+      <item itemvalue="JUnit.UserDaoTest.queryUserByUsername" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JsonTest.Test3" />
-        <item itemvalue="JUnit.JsonTest.test2" />
-        <item itemvalue="JUnit.JsonTest.test1" />
-        <item itemvalue="JavaScript Debug.hello.html" />
+        <item itemvalue="JUnit.UserDaoTest.queryUserByUsername" />
+        <item itemvalue="JUnit.JdbcUtilsTest.testJdbcUtils" />
+        <item itemvalue="JUnit.JdbcUtilsTest.JdbcUtilsTest" />
+        <item itemvalue="JUnit.JdbcUtilsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -863,7 +1081,18 @@
       <workItem from="1605924791772" duration="5180000" />
       <workItem from="1605935001362" duration="666000" />
       <workItem from="1605940576427" duration="18249000" />
-      <workItem from="1606052208822" duration="366000" />
+      <workItem from="1606052208822" duration="3166000" />
+      <workItem from="1606272569408" duration="229000" />
+      <workItem from="1606302177231" duration="8991000" />
+      <workItem from="1606313999689" duration="1933000" />
+      <workItem from="1606315945197" duration="588000" />
+      <workItem from="1606316538250" duration="545000" />
+      <workItem from="1606317125805" duration="837000" />
+      <workItem from="1606359539351" duration="6107000" />
+      <workItem from="1606366048594" duration="8716000" />
+      <workItem from="1606384533316" duration="2008000" />
+      <workItem from="1606386806366" duration="1872000" />
+      <workItem from="1606388689078" duration="8196000" />
     </task>
     <task id="LOCAL-00001" summary="尚硅谷的javaWeb笔记代码">
       <created>1605941516336</created>
@@ -879,43 +1108,50 @@
       <option name="project" value="LOCAL" />
       <updated>1605943635096</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="尚硅谷的javaWeb笔记代码">
+      <created>1606052597990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606052597990</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JsonTest_test2 - 2020.11.21 at 17h 44m 06s.xml">
-      <configuration name="JsonTest.test2" configurationId="JUnit" />
+    <history-entry file="JdbcUtilsTest_JdbcUtilsTest - 2020.11.26 at 21h 42m 13s.xml">
+      <configuration name="JdbcUtilsTest.JdbcUtilsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JsonTest_Test3 - 2020.11.21 at 17h 48m 33s.xml">
-      <configuration name="JsonTest.Test3" configurationId="JUnit" />
+    <history-entry file="JdbcUtilsTest_JdbcUtilsTest - 2020.11.26 at 21h 45m 34s.xml">
+      <configuration name="JdbcUtilsTest.JdbcUtilsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JsonTest_Test3 - 2020.11.21 at 17h 50m 10s.xml">
-      <configuration name="JsonTest.Test3" configurationId="JUnit" />
+    <history-entry file="JdbcUtilsTest_JdbcUtilsTest - 2020.11.26 at 21h 52m 45s.xml">
+      <configuration name="JdbcUtilsTest.JdbcUtilsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JsonTest_test2 - 2020.11.21 at 21h 25m 19s.xml">
-      <configuration name="JsonTest.test2" configurationId="JUnit" />
+    <history-entry file="JdbcUtilsTest_JdbcUtilsTest - 2020.11.26 at 21h 53m 27s.xml">
+      <configuration name="JdbcUtilsTest.JdbcUtilsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JsonTest_Test3 - 2020.11.21 at 21h 32m 23s.xml">
-      <configuration name="JsonTest.Test3" configurationId="JUnit" />
+    <history-entry file="JdbcUtilsTest_JdbcUtilsTest - 2020.11.26 at 21h 57m 10s.xml">
+      <configuration name="JdbcUtilsTest.JdbcUtilsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JsonTest_Test3 - 2020.11.21 at 21h 38m 11s.xml">
-      <configuration name="JsonTest.Test3" configurationId="JUnit" />
+    <history-entry file="JdbcUtilsTest_JdbcUtilsTest - 2020.11.26 at 21h 58m 05s.xml">
+      <configuration name="JdbcUtilsTest.JdbcUtilsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JsonTest_Test3 - 2020.11.21 at 21h 38m 29s.xml">
-      <configuration name="JsonTest.Test3" configurationId="JUnit" />
+    <history-entry file="JdbcUtilsTest_JdbcUtilsTest - 2020.11.26 at 21h 58m 29s.xml">
+      <configuration name="JdbcUtilsTest.JdbcUtilsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JsonTest_Test3 - 2020.11.21 at 21h 50m 05s.xml">
-      <configuration name="JsonTest.Test3" configurationId="JUnit" />
+    <history-entry file="JdbcUtilsTest_JdbcUtilsTest - 2020.11.26 at 22h 00m 08s.xml">
+      <configuration name="JdbcUtilsTest.JdbcUtilsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JsonTest_Test3 - 2020.11.21 at 21h 51m 49s.xml">
-      <configuration name="JsonTest.Test3" configurationId="JUnit" />
+    <history-entry file="JdbcUtilsTest_testJdbcUtils - 2020.11.26 at 22h 04m 04s.xml">
+      <configuration name="JdbcUtilsTest.testJdbcUtils" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JsonTest_Test3 - 2020.11.21 at 21h 52m 05s.xml">
-      <configuration name="JsonTest.Test3" configurationId="JUnit" />
+    <history-entry file="UserDaoTest_queryUserByUsername - 2020.11.26 at 22h 41m 25s.xml">
+      <configuration name="UserDaoTest.queryUserByUsername" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155190000" />
+    <option name="totallyTimeSpent" value="198012000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -927,19 +1163,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="276" y="28" width="1384" height="776" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.92877495" visible="true" weight="0.19530201" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9035433" visible="true" weight="0.2326284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.07122507" side_tool="true" visible="true" weight="0.19530201" />
+      <window_info id="Web" order="7" sideWeight="0.09645669" side_tool="true" visible="true" weight="0.2326284" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25071225" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45454547" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -951,7 +1188,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32905984" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32905984" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.23646724" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.225" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -978,310 +1215,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/book/web/static/img/code.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/web/static/img/default.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/web.java" />
-    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/dao/impl.java" />
-    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/test.java" />
-    <entry file="file://$PROJECT_DIR$/book/web/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/PringHtml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/errorPage.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/b.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/a.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1257">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/output.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/include/main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/include/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/scope.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/test/test1.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="29" column="77" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/Listener/MyServletContextListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/projo/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/web/test/test2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_jsp/src/com/javaWeb/servlet/SeachStudentServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/web/BaseServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/Utils/CookieUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/web/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/BaseServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/CookieServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/web/cookie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="59" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/web/session.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_filter/web/admin/11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_filter/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_cookie&amp;session/src/com/javaWeb/servlet/SessionServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_filter/web/admin/a.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_filter/web/admin/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_filter/web/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_filter/src/com/javaweb/filter/servlet/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_filter/src/com/javaweb/filter/Filter1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_filter/src/com/javaweb/filter/AdminFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/script/jquery-1.7.2.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/07_filter/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
@@ -1290,81 +1223,334 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/t.java" />
-    <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/json/PersonListType.java">
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/web/json.html" />
+    <entry file="file://$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/ContextServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/ContextServlet1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/ContextServlet2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_servlet/src/com/javaweb/filter/servlet/HelloServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/json.html">
+    <entry file="file://$PROJECT_DIR$/02_servlet/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/web/Jquery_Ajax_request.html" />
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="330">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/proj/Person.java">
+    <entry file="jar://$PROJECT_DIR$/08_jsonAjaxI18n/web/WEB-INF/libs/fastjson-1.1.34.android-sources.jar!/com/alibaba/fastjson/JSONObject.java" />
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/08_jsonAjaxI18n.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/json/PersonListType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="220">
+          <caret line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#0#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/json/JsonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/servlet/BaseServlet.java">
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/proj/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_web/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/servlet/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/src/com/javaWeb/servlet/AjaxServlet.java">
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="308">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/web/script/jquery-1.7.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/json/JsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/WEB-INF/web.xml">
+    <entry file="jar://D:/Java/jdk1.8.0_221/src.zip!/java/util/ResourceBundle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="135">
+          <caret line="1395" column="16" selection-start-line="1395" selection-start-column="16" selection-end-line="1395" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_json&amp;ajax&amp;i18n/web/ajax.html">
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/i18n/I18n.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/src/com/javaWeb/servlet/AjaxServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/web/ajax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/src/i18n_zh_CN.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/src/i18n_en_US.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="6" selection-start-line="4" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/static/img/code.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/static/img/default.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/static/img/pwd-icons-new.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/static/img/logo.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/pages/user/login_success.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/pages/user/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="5" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/pages/cart/cart.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_jsonAjaxI18n/web/i18n.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/static/jquery-1.7.2.js" />
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/static/script/jquery-1.7.2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/pages/user/regist_success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/static/script/jquery-1.7.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203176">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3036" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/bookStatic/pages/user/regist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#input#4;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/pages/user/regist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="118" column="42" selection-start-line="118" selection-start-column="42" selection-end-line="118" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/web/pages/user/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/book/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar!/com/mysql/jdbc/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/book/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar!/com/mysql/jdbc/Util.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/utils/JdbcUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/test/JdbcUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1078">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/src/com/javaWeb/test/UserDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1374,7 +1560,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>02_servlet:war exploded</last-edited>
+          <last-edited>08_jsonAjaxI18n:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
