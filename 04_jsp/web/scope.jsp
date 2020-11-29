@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<h1>scope.jsp页面</h1> </br>
+    <h1>scope.jsp页面</h1> </br>
     <%
         //往四个域中都分别保存了数据
         pageContext.setAttribute("key","pageContext");

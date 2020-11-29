@@ -17,9 +17,9 @@ public class ResponseIOServlet extends HttpServlet {
         //2.修改浏览器字符集
 //        resp.setHeader("Content-Type","text/html;charset=utf-8");
 
-        //--2--
         resp.setContentType("text/html;charset=UTF-8");
         PrintWriter writer = resp.getWriter();
         writer.write("连接成功");
+//        resp.getOutputStream().write(010101010);
     }
 }
