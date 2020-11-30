@@ -1,4 +1,4 @@
-package com.javaWeb.dao.impl;
+package com.javaWeb.dao;
 
 import com.javaWeb.pojo.User;
 

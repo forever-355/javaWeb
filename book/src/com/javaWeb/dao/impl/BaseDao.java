@@ -1,4 +1,4 @@
-package com.javaWeb.dao;
+package com.javaWeb.dao.impl;
 
 import com.javaWeb.utils.JdbcUtils;
 import org.apache.commons.dbutils.QueryRunner;

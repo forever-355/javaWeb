@@ -1,6 +1,6 @@
 package com.javaWeb.test;
 
-import com.javaWeb.dao.impl.UserDao;
+import com.javaWeb.dao.UserDao;
 import com.javaWeb.dao.impl.UserDaoImpl;
 import com.javaWeb.pojo.User;
 import org.junit.Test;

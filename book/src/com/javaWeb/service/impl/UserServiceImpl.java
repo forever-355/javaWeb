@@ -1,6 +1,6 @@
 package com.javaWeb.service.impl;
 
-import com.javaWeb.dao.impl.UserDao;
+import com.javaWeb.dao.UserDao;
 import com.javaWeb.dao.impl.UserDaoImpl;
 import com.javaWeb.pojo.User;
 import com.javaWeb.service.UserService;
