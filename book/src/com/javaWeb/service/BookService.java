@@ -1,6 +1,7 @@
 package com.javaWeb.service;
 
 import com.javaWeb.pojo.Book;
+import com.javaWeb.pojo.Page;
 
 import java.util.List;
 
@@ -20,4 +21,6 @@ public interface BookService {
 
     //查找图书----2
     public List<Book> queryBooks();
+
+    Page<Book> page(int pageNo, int pageSize);
 }
