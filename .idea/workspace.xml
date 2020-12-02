@@ -6,26 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="033f99a1-b6c8-405e-b3b2-79b44f1ca4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/book/src/com/javaWeb/pojo/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/javaWeb/web/ClientBookServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/client/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/src/com/javaWeb/dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/com/javaWeb/dao/BookDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/BookDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/com/javaWeb/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/src/com/javaWeb/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/com/javaWeb/service/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/src/com/javaWeb/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/com/javaWeb/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/src/com/javaWeb/test/BookDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/com/javaWeb/test/BookDaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/src/com/javaWeb/test/BookServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/com/javaWeb/test/BookServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/src/com/javaWeb/utils/WebUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/com/javaWeb/utils/WebUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/src/com/javaWeb/web/BookServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/com/javaWeb/web/BookServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/book/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/web/pages/commn/manager_menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/book/web/pages/commn/manager_menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/web/pages/manager/book_edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/book/web/pages/manager/book_edit.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/web/pages/manager/book_manager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/book/web/pages/manager/book_manager.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/web/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/book/web/static/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="033f99a1-b6c8-405e-b3b2-79b44f1ca4bd" name="Default Changelist" comment="2020-12-02备份，book书城项目还没全部完成" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/book/web/pages/client/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="55" column="35" lean-forward="true" selection-start-line="55" selection-start-column="35" selection-end-line="57" selection-end-column="33" />
+            <state relative-caret-position="637">
+              <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -1118,7 +1099,7 @@
       <workItem from="1606739552705" duration="926000" />
       <workItem from="1606740577549" duration="9300000" />
       <workItem from="1606812992473" duration="12456000" />
-      <workItem from="1606871327819" duration="11449000" />
+      <workItem from="1606871327819" duration="11694000" />
     </task>
     <task id="LOCAL-00001" summary="尚硅谷的javaWeb笔记代码">
       <created>1605941516336</created>
@@ -1176,7 +1157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606751237082</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2020-12-02备份，book书城项目还没全部完成">
+      <created>1606895463462</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606895463462</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1212,7 +1200,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304235000" />
+    <option name="totallyTimeSpent" value="304480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1225,18 +1213,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.80815345" visible="true" weight="0.15973154" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8057143" visible="true" weight="0.25167784" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.19184652" side_tool="true" visible="true" weight="0.15973154" />
+      <window_info id="Web" order="7" sideWeight="0.19428572" side_tool="true" visible="true" weight="0.25167784" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4059829" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5014245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25736433" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1271,7 +1260,8 @@
     <MESSAGE value="尚硅谷的javaWeb笔记代码（1）" />
     <MESSAGE value="2020-11-29备份，book书城项目还没全部完成" />
     <MESSAGE value="2020-11-30备份，book书城项目还没全部完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-11-30备份，book书城项目还没全部完成" />
+    <MESSAGE value="2020-12-02备份，book书城项目还没全部完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-12-02备份，book书城项目还没全部完成" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1704,8 +1694,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/book/web/pages/client/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="55" column="35" lean-forward="true" selection-start-line="55" selection-start-column="35" selection-end-line="57" selection-end-column="33" />
+        <state relative-caret-position="637">
+          <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
         </state>
       </provider>
     </entry>
