@@ -6,7 +6,7 @@
 <title>我的订单</title>
 
 	<%--   静态包含的 base标签，css样式，js     --%>
-	<%@ include file="/pages/commn/login_success_menu.jsp"%>
+	<%@ include file="/pages/commn/head.jsp"%>
 
 	<style type="text/css">
 	h1 {
@@ -18,7 +18,7 @@
 <body>
 	
 	<div id="header">
-			<img class="logo_img" alt="" src="../../static/img/logo.gif" >
+			<img class="logo_img" alt="" src="static/img/logo.gif" >
 			<span class="wel_word">我的订单</span>
 		<%--	登录成功后的静态替换页面	--%>
 		<%@ include file="/pages/commn/login_success_menu.jsp"%>

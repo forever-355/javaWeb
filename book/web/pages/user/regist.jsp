@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>尚硅谷会员注册页面</title>
+		<title>三岛会员注册页面</title>
 
         <%--   静态包含的 base标签，css样式，js     --%>
         <%@ include file="../commn/head.jsp"%>
@@ -101,7 +101,7 @@
 					<div class="login_form">
 						<div class="login_box">
 							<div class="tit">
-								<h1>注册尚硅谷会员</h1>
+								<h1>注册三岛会员</h1>
 								<span class="errorMsg"></span>
 								<%--表达式脚本--%>
 <%--								<%-- <%=request.getAttribute("msg") == null ? "":request.getAttribute("msg")%>--%>
@@ -110,7 +110,7 @@
 
 							</div>
 							<div class="form">
-								<form action="http://localhost:8090/book/userServlet" method="post">
+								<form action="http://localhost:8080/book/userServlet" method="post">
                                     <input type="hidden" name="action" value="regist">
 
 									<label>用户名称：</label>

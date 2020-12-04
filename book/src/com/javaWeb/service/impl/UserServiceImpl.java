@@ -7,6 +7,7 @@ import com.javaWeb.service.UserService;
 
 public class UserServiceImpl implements UserService {
 
+    private UserDao userDao = new UserDaoImpl();
 
     @Override
     //注册用户
@@ -31,5 +32,23 @@ public class UserServiceImpl implements UserService {
             return  false;
         }
         return true;
+    }
+
+    @Override
+    //通过用户id查找用户信息
+    public User queryUserById(int newId) {
+        return userDao.queryUserById(newId);
+    }
+
+    @Override
+    //修改用用户信息
+    public void updateUser(User user) {
+        userDao.updateUser(user);
+    }
+
+    @Override
+    //删除用户信息
+    public void deleteUser(int newId) {
+        userDao.deleteUser(newId);
     }
 }

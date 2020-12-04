@@ -44,10 +44,8 @@ public class JdbcUtils {
         return conn;
     }
 
-    /**
-     * 关闭连接，放回数据库连接池
-     * @param conn
-     */
+     // 关闭连接，放回数据库连接池
+     //@param conn
     public static void close(Connection conn){
         if (conn != null) {
             try {

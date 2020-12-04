@@ -8,10 +8,12 @@ import org.junit.Test;
 /*
 * 测试类，测试注册时输入的用户名是否可用（用户名是否存在）*/
 public class UserDaoTest {
+
+    private UserDao userDao = new UserDaoImpl();
     @Test
     public void queryUserByUsername() {
         UserDao userDao = new UserDaoImpl();
-        User name = userDao.queryUserByUsername("张三");
+        User name = userDao.queryUserByUsername("zhangsan");
         if(name == null){ //数据库中没有查询的用户名
             System.out.println("用户名可用！");
         } else{
@@ -37,6 +39,26 @@ public class UserDaoTest {
         UserDao userDao = new UserDaoImpl();
         //打印的数字代表影响的行数
         //打印-1代表操作失败
-        System.out.println(userDao.saveUser(new User(null,"李四","123456","234567@qq.com")));
+        System.out.println(userDao.saveUser(new User(null,"test","123456","test@qq.com")));
+    }
+
+    //查找用户，通过id
+    @Test
+    public void queryUserById() {
+        System.out.println(userDao.queryUserById(1));
+        System.out.println(userDao.queryUserById(2));
+    }
+
+    //修改图书
+    @Test
+    public void updateUser() {
+        userDao.updateUser(new User(9,"bb","123456","aab@QQ.COM"));
+    }
+
+    //删除用户
+    @Test
+    public void deleteUser() {
+        userDao.deleteUser(9);
+        System.out.println("删除成功！");
     }
 }

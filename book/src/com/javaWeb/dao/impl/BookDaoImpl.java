@@ -43,6 +43,7 @@ public class BookDaoImpl extends BaseDao implements BookDao {
     }
 
     @Override
+    //查找符合价格区间的总数
     public Integer queryForPageTotalCount() {
         String sql = "select count(*) from table_book";
         Number count = (Number) queryForSingleValue(sql);
@@ -50,8 +51,26 @@ public class BookDaoImpl extends BaseDao implements BookDao {
     }
 
     @Override
+    //查找符合价格区间的图书
     public List<Book> queryForPageItems(int begin, int pageSize) {
         String sql = "select * from table_book limit ?,?";
         return queryForList(Book.class,sql,begin,pageSize);
     }
+
+    @Override
+    //查找min---max之间的条数
+    public Integer queryForPageTotalCountByPrice(int min,int max) {
+        String sql = "select count(*) from table_book where price between ? and ?";
+        Number count = (Number) queryForSingleValue(sql,min,max);
+        return count.intValue();
+    }
+
+    @Override
+    //查找符合价格区间，那个页面
+    public List<Book> queryForPageItemsByPrice(int begin, int pageSize, int min, int max) {
+        String sql = "select * from table_book where price between ? and ? order by price limit ?,?";
+        return queryForList(Book.class,sql,min,max,begin,pageSize);
+    }
+
+
 }

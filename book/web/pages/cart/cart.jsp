@@ -6,7 +6,7 @@
 <title>购物车</title>
 
 	<%--   静态包含的 base标签，css样式，js     --%>
-	<%@ include file="/pages/commn/login_success_menu.jsp"%>
+	<%@ include file="/pages/commn/head.jsp"%>
 
 </head>
 <body>
@@ -64,6 +64,6 @@
 	</div>
 
 	<%--	静态包含，页脚部分--%>
-	<%@include file="/pages/commn/login_success_menu.jsp"%>
+	<%@include file="/pages/commn/footer.jsp"%>
 </body>
 </html>

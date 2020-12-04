@@ -34,4 +34,21 @@ public class UserServiceTest {
             System.out.println("用户名可用！");
         }
     }
+
+    @Test
+    public void queryUserById(){
+        System.out.println(userService.queryUserById(2));
+    }
+
+    //修改用户
+    @Test
+    public void updateUser(){
+        userService.updateUser(new User(9,"FUJIFILM","123456","FUJI@QQ.COM"));
+    }
+
+    //删除用户
+    @Test
+    public void deleteUser(){
+        userService.deleteUser(10);
+    }
 }

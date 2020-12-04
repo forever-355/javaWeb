@@ -23,10 +23,10 @@ public abstract class BaseServlet extends HttpServlet {
 //        } else if("regist".equals(action)){
 //            regist(req,resp);
 //        }
+
         try { //利用反射方式，避免写大量的else if
             //获取action业务鉴别字符串，获取相应的业务，方法反射对象
             Method method = this.getClass().getDeclaredMethod(action, HttpServletRequest.class, HttpServletResponse.class);
-
             //调用目标业务，方法
             method.invoke(this, req, resp);
         } catch (Exception e) {

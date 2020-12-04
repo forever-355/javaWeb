@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>尚硅谷会员注册页面</title>
+<title>三岛会员注册页面</title>
 
 	<%--   静态包含的 base标签，css样式，js     --%>
 	<%@ include file="/pages/commn/head.jsp"%>
@@ -24,6 +24,8 @@
 				<img class="logo_img" alt="" src="static/img/logo.gif" >
 			<%--	登录成功后的静态替换页面	--%>
 			<%@ include file="/pages/commn/login_success_menu.jsp"%>
+
+
 		</div>
 		
 		<div id="main">

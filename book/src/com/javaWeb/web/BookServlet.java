@@ -7,6 +7,7 @@ import com.javaWeb.service.impl.BookServiceImpl;
 import com.javaWeb.utils.WebUtil;
 
 import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
@@ -81,13 +82,12 @@ public class BookServlet extends BaseServlet {
         int pageSize = WebUtil.parseInt(req.getParameter("pageSize"), Page.PAGE_SIZE);
         //2 调用BookService.page(pageNo，pageSize)：Page对象
         Page<Book> page = bookService.page(pageNo,pageSize);
+        //设置分页跳转地址 后台
+        page.setUrl("manager/bookServlet?action=page");
         //3 保存Page对象到Request域中
         req.setAttribute("page",page);
         //4 请求转发到pages/manager/book_manager.jsp页面
         req.getRequestDispatcher("/pages/manager/book_manager.jsp").forward(req,resp);
-
-       // page.setUrl("manager/bookServlet?action=page");
-
 
 
     }

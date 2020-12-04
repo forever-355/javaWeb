@@ -1,6 +1,7 @@
 package com.javaWeb.test;
 
 import com.javaWeb.pojo.Book;
+import com.javaWeb.pojo.Page;
 import com.javaWeb.service.BookService;
 import com.javaWeb.service.impl.BookServiceImpl;
 import org.junit.Test;
@@ -51,4 +52,13 @@ public class BookServiceTest {
         System.out.println(bookService.page(1,4));
     }
 
+//    @Test
+//    public void pageByPrice() {
+//        System.out.println(bookService.pageByPrice(1, Page.PAGE_SIZE));
+//    }
+
+    @Test
+    public void pageByPrice() {
+        System.out.println(bookService.pageByPrice(1,4,10,50));
+    }
 }

@@ -18,6 +18,10 @@ public class Page<B> {
     private List<B> items;
 
 
+
+    //6.设置分页跳转地址
+    private String url;
+
     public Integer getPageSize() {
         return pageSize;
     }
@@ -58,15 +62,21 @@ public class Page<B> {
         this.items = items;
     }
 
-    @Override
-    public String toString() {
-        return "Page{" +
-                "pageNo=" + pageNo +
-                ", pageTotal=" + pageTotal +
-                ", pageSize=" + pageSize +
-                ", pageTotalCount=" + pageTotalCount +
-                ", items=" + items +
-                '}';
+    public String getUrl() {
+        return url;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
+
+    public Page(Integer pageNo, Integer pageTotal, Integer pageSize, Integer pageTotalCount, List<B> items, String url) {
+        this.pageNo = pageNo;
+        this.pageTotal = pageTotal;
+        this.pageSize = pageSize;
+        this.pageTotalCount = pageTotalCount;
+        this.items = items;
+        this.url = url;
     }
 
     public Page() {
