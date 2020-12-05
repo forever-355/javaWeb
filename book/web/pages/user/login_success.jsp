@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>三岛会员注册页面</title>
+<title>登陆成功页面</title>
 
 	<%--   静态包含的 base标签，css样式，js     --%>
 	<%@ include file="/pages/commn/head.jsp"%>
@@ -13,7 +13,7 @@
 		text-align: center;
 		margin-top: 200px;
 	}
-	
+
 	h1 a {
 		color:red;
 	}
@@ -27,11 +27,11 @@
 
 
 		</div>
-		
+
 		<div id="main">
-		
-			<h1>欢迎回来 <a href="../../index.jsp">转到主页</a></h1>
-	
+
+			<h1>欢迎回来 <a href="index.jsp">转到主页</a></h1>
+
 		</div>
 
 		<%--	静态包含，页脚部分--%>

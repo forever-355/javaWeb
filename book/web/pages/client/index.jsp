@@ -14,15 +14,6 @@
 <title>书店首页</title>
 <link type="text/css" rel="stylesheet" href="static/css/style.css" >
 
-<%--	<script type="text/javascript">--%>
-<%--		$(function () {--%>
-<%--			//给加入购物车绑定单击按钮--%>
-<%--			$("button.addToCart").click(function () {--%>
-<%--				var bookId = ${this}.attr(bookId);--%>
-<%--				location.href = "http://localhost:8090/book/cartServlet?action=addItem&id = " + bookId;--%>
-<%--			});--%>
-<%--		});--%>
-<%--	</script>--%>
 
 </head>
 <body>
@@ -53,7 +44,7 @@
 	<div id="main">
 		<div id="book">
 			<div class="book_cond">
-				<form action="client/clientBookServlet" method="get">
+				<form action="clientBookServlet" method="get">
 					<input type="hidden" name="action" value="pageByPrice">
 					价格：<input id="min" type="text" name="min" value="${param.min}"> 元 -
 						<input id="max" type="text" name="max" value="${param.max}"> 元
@@ -61,9 +52,9 @@
 				</form>
 			</div>
 			<div style="text-align: center">
-				<span>您的购物车中有3件商品</span>
+				<span>您的购物车中有4件商品</span>
 				<div>
-					您刚刚将<span style="color: red">时间简史</span>加入到了购物车中
+					您刚刚将<span style="color: red">《JavaWeb从入门到精通》</span>加入到了购物车中
 				</div>
 			</div>
 
@@ -95,7 +86,8 @@
 							<span class="sp2">${book.stock}</span>
 						</div>
 						<div class="book_add">
-							<button >加入购物车</button>
+							<button onclick="javascript:window.location.href='http://localhost:8080/book/cartServlet?action=addItem&id=${book.id}'">加入购物车</button>
+
 						</div>
 					</div>
 				</div>
@@ -125,6 +117,7 @@
 <%--	分页结束--%>
 
 	</div>
+
 	
 	<%@include file="/pages/commn/footer.jsp"%>
 </body>

@@ -32,7 +32,7 @@ public class UserServlet extends BaseServlet {
             req.setAttribute("username",username);
             //跳回登录页面
             req.getRequestDispatcher("/pages/user/login.jsp").forward(req, resp);
-            System.out.println("用户名或密码错误！");
+//            System.out.println("用户名或密码错误！");
         } else {
             //登录成功
             //保存用户的登录信息到session域中

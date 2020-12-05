@@ -28,14 +28,14 @@
 		<div class="login_form">
 			<div class="login_box">
 				<div class="tit">
-					<h1>三岛会员</h1>
+					<h1>三岛书店会员</h1>
 					<a href="pages/user/regist.jsp">立即注册</a>
 				</div>
 				<div class="msg_cont">
 					<b></b>
 					<span class="errorMsg">
 						<%--表达式脚本--%>
-							<%-- <%=request.getAttribute("msg")==null?"请输入用户名和密码":request.getAttribute("msg")%> --%>
+<%--							 <%=request.getAttribute("msg")==null?"请输入用户名和密码":request.getAttribute("msg")%>--%>
 						<%--EL表达式--%>
 							${ empty requestScope.msg ? "请输入用户名和密码":requestScope.msg }
 					</span>

@@ -27,7 +27,7 @@ public class ClientBookServlet extends BaseServlet {
         page.setUrl("?action=page");
         //3 保存Page对象到Request域中
         req.setAttribute("page",page);
-        //4 请求转发到pages/manager/book_manager.jsp页面
+        //4 请求转发到pages/client/index.jsp页面
         req.getRequestDispatcher("pages/client/index.jsp").forward(req,resp);
     }
 
@@ -42,11 +42,11 @@ public class ClientBookServlet extends BaseServlet {
         Page<Book> page = bookService.pageByPrice(pageNo,pageSize,min,max);
 
         //设置分页跳转地址 前台
-        page.setUrl("clientBookServlet?action=pageByPrice");
+        page.setUrl("?action=pageByPrice");
         //3 保存Page对象到Request域中
         req.setAttribute("page",page);
         //4 请求转发到/pages/client/index.jsp页面
-        req.getRequestDispatcher("/pages/client/index.jsp").forward(req,resp);
+        req.getRequestDispatcher("pages/client/index.jsp").forward(req,resp);
     }
 
 

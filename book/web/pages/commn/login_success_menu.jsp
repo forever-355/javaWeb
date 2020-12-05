@@ -20,10 +20,10 @@
 
 <div>
     <span>欢迎<span class="um_span">${sessionScope.user.username}</span>光临三岛书店</span>
-    <a href="pages/order/order.jsp">我的订单</a>
+    <a href="pages/order/order.jsp" target="_self">我的订单</a>
 <%--    <a href="userServlet?action=logOut">注销</a>&nbsp;&nbsp;--%>
-    <a class="deleteClass" href="userServlet?action=delete&id=${user.id}">注销</a>
-    <a href="pages/client/user_edit.jsp">修改</a>
-    <a href="index.jsp">返回</a>
+    <a class="deleteClass" href="userServlet?action=delete&id=${user.id}" >注销</a>
+    <a href="pages/client/user_edit.jsp" target="_self">修改</a>
+    <a href="index.jsp" target="_self">返回</a>
 </div>
 

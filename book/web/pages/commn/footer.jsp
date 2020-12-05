@@ -8,5 +8,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <div id="bottom">
-	<p align="center">三岛书店.GuizhouUniversity @2020</p>
+	<p align="center">贵州大学·三岛书店 @2020</p>
 </div>

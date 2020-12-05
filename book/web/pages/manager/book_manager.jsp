@@ -23,7 +23,6 @@
 				// 在事件的function函数中，有一个this对象。这个this对象，是当前正在响应事件的dom对象。
 				//   confirm是确认提示框函数
 				return confirm("你确定要删除书名为： " + $(this).parent().parent().find("td").eq(1).text() + "的图书吗?");
-				// return false// 阻止元素的默认行为===不提交请求
 			});
 		});
 	</script>
@@ -60,7 +59,7 @@
 					<td>${book.author}</td>
 					<td>${book.sales}</td>
 					<td>${book.stock}</td>
-					<td><a href="manager/bookServlet?action=getBook&id=${book.id}&pageNo=${requestScope.page.pageNo}">修改</a></td>
+					<td><a href="manager/bookServlet?action=getBook&id=${book.id}&pageNo=${requestScope.page.pageNo}" target="_self">修改</a></td>
 <%--					class="deleteClass"绑定一个单击事件，跳窗确认删除的信息--%>
 					<td><a class="deleteClass" href="manager/bookServlet?action=delete&id=${book.id}&pageNo=${requestScope.page.pageNo}">删除</a></td>
 				</tr>

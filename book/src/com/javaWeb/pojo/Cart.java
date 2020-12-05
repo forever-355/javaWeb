@@ -30,7 +30,7 @@ public class Cart {
         } else{
             //之前添加过
             item.setCount( item.getCount() + 1 );
-            item.setTotalPrice( item.getPrice().multiply(new BigDecimal( item.getCount() )) );
+            item.setTotalPrice( item.getPrice() * item.getCount() );
         }
     }
 
@@ -50,7 +50,7 @@ public class Cart {
         CartItem cartItem = items.get(id);
         if(cartItem != null){
             cartItem.setCount(count);// 修改商品数量
-            cartItem.setTotalPrice( cartItem.getPrice().multiply(new BigDecimal( cartItem.getCount() )) ); // 更新总金额
+            cartItem.setTotalPrice( cartItem.getPrice() * cartItem.getCount() ); // 更新总金额
         }
     }
 
@@ -69,13 +69,13 @@ public class Cart {
 
 
 
-    public BigDecimal getTotalPrice() {
-        BigDecimal totalPrice = new BigDecimal (0);
+    public double getTotalPrice() {
+        double totalPrice = 0.0;
         //遍历购物车中的商品总数
         for(Map.Entry<Integer,CartItem>entry : items.entrySet()){
-            totalPrice = totalPrice.add(entry.getValue().getTotalPrice());
+//            Integer i = entry.getKey();
+            totalPrice += entry.getValue().getTotalPrice();
         }
-
         return totalPrice;
     }
 

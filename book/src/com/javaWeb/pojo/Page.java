@@ -16,9 +16,6 @@ public class Page<B> {
     private Integer pageTotalCount;
     //5.当前页数据
     private List<B> items;
-
-
-
     //6.设置分页跳转地址
     private String url;
 
