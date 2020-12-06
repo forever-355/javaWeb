@@ -6,7 +6,7 @@
 <title>结算页面</title>
 
 	<%--   静态包含的 base标签，css样式，js     --%>
-	<%@ include file="/pages/commn/login_success_menu.jsp"%>
+	<%@ include file="/pages/commn/head.jsp"%>
 
 	<style type="text/css">
 	h1 {
@@ -18,7 +18,7 @@
 <body>
 	
 	<div id="header">
-			<img class="logo_img" alt="" src="../../static/img/logo.gif" >
+			<img class="logo_img" alt="" src="static/img/logo.gif" >
 			<span class="wel_word">结算</span>
 		<%--	登录成功后的静态替换页面	--%>
 		<%@ include file="/pages/commn/login_success_menu.jsp"%>
@@ -26,12 +26,12 @@
 	
 	<div id="main">
 		
-		<h1>你的订单已结算，订单号为2937474382928484747</h1>
+		<h1>您的订单已支付，订单号为: ${sessionScope.orderId}</h1>
 		
 	
 	</div>
 
 	<%--	静态包含，页脚部分--%>
-	<%@include file="/pages/commn/login_success_menu.jsp"%>
+	<%@include file="/pages/commn/footer.jsp"%>
 </body>
 </html>

@@ -20,7 +20,7 @@
 	
 	<div id="header">
 			<img class="logo_img" alt="" src="static/img/logo.gif" >
-			<span class="wel_word">三岛书店</span>
+			<span class="wel_word">网上书店</span>
 			<div>
 <%--				如果还没有登录，显示登录和注册页面--%>
 				<c:if test="${empty sessionScope.user}">

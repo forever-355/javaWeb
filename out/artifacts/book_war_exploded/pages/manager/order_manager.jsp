@@ -6,13 +6,13 @@
 <title>订单管理</title>
 
 	<%--   静态包含的 base标签，css样式，js     --%>
-	<%@ include file="/pages/commn/login_success_menu.jsp"%>
+	<%@ include file="/pages/commn/head.jsp"%>
 
 </head>
 <body>
 	
 	<div id="header">
-			<img class="logo_img" alt="" src="../../static/img/logo.gif" >
+			<img class="logo_img" alt="" src="static/img/logo.gif" >
 			<span class="wel_word">订单管理系统</span>
 
 			<%--			静态包含，manager目录下的图书菜单--%>
@@ -53,6 +53,6 @@
 	</div>
 
 	<%--	静态包含，页脚部分--%>
-	<%@include file="/pages/commn/login_success_menu.jsp"%>
+	<%@include file="/pages/commn/footer.jsp"%>
 </body>
 </html>

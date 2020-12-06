@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>尚硅谷会员登录页面</title>
+	<title>三岛会员登录页面</title>
 
 	<%-- 静态包含 base标签、css样式、jQuery文件 --%>
 	<%@ include file="../commn/head.jsp"%>
@@ -24,24 +24,24 @@
 		<span class="login_word">欢迎登录</span>
 	</div>
 
-	<div id="content">
+	<div id="content" >
 		<div class="login_form">
 			<div class="login_box">
 				<div class="tit">
-					<h1>尚硅谷会员</h1>
+					<h1>三岛书店会员</h1>
 					<a href="pages/user/regist.jsp">立即注册</a>
 				</div>
 				<div class="msg_cont">
 					<b></b>
 					<span class="errorMsg">
 						<%--表达式脚本--%>
-							<%-- <%=request.getAttribute("msg")==null?"请输入用户名和密码":request.getAttribute("msg")%> --%>
+<%--							 <%=request.getAttribute("msg")==null?"请输入用户名和密码":request.getAttribute("msg")%>--%>
 						<%--EL表达式--%>
 							${ empty requestScope.msg ? "请输入用户名和密码":requestScope.msg }
 					</span>
 				</div>
 				<div class="form">
-					<form action="http://localhost:8090/book/userServlet" method="post">
+					<form action="http://localhost:8080/book/userServlet" method="post">
 						<input type="hidden" name="action" value="login" />
 						<label>用户名称：</label>
 						<input class="itxt" type="text" placeholder="请输入用户名"

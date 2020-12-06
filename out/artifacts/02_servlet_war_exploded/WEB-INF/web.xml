@@ -16,7 +16,7 @@
     
     <servlet>
         <servlet-name>HelloServlet</servlet-name>
-        <servlet-class>com.javaweb.servlet.HelloServlet</servlet-class>
+        <servlet-class>com.javaweb.filter.servlet.HelloServlet</servlet-class>
 
         <init-param>
             <param-name>username</param-name>
@@ -36,7 +36,7 @@
 
     <servlet>
         <servlet-name>HelloServlet2</servlet-name>
-        <servlet-class>com.javaweb.servlet.HelloServlet2</servlet-class>
+        <servlet-class>com.javaweb.filter.servlet.HelloServlet2</servlet-class>
 
         <init-param>
             <param-name>username</param-name>
@@ -56,7 +56,7 @@
 
     <servlet>
         <servlet-name>HelloServlet3</servlet-name>
-        <servlet-class>com.javaweb.servlet.HelloServlet3</servlet-class>
+        <servlet-class>com.javaweb.filter.servlet.HelloServlet3</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>HelloServlet3</servlet-name>
@@ -66,7 +66,7 @@
 
     <servlet>
         <servlet-name>ContextServlet</servlet-name>
-        <servlet-class>com.javaweb.servlet.ContextServlet</servlet-class>
+        <servlet-class>com.javaweb.filter.servlet.ContextServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ContextServlet</servlet-name>
@@ -75,7 +75,7 @@
 
     <servlet>
         <servlet-name>ContextServlet1</servlet-name>
-        <servlet-class>com.javaweb.servlet.ContextServlet1</servlet-class>
+        <servlet-class>com.javaweb.filter.servlet.ContextServlet1</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ContextServlet1</servlet-name>
@@ -85,7 +85,7 @@
     
     <servlet>
         <servlet-name>ContextServlet2</servlet-name>
-        <servlet-class>com.javaweb.servlet.ContextServlet2</servlet-class>
+        <servlet-class>com.javaweb.filter.servlet.ContextServlet2</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ContextServlet2</servlet-name>

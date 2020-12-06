@@ -42,4 +42,25 @@
         <servlet-name>LoginServlet</servlet-name>
         <url-pattern>/loginServlet</url-pattern>
     </servlet-mapping>
+
+
+    <filter>
+        <filter-name>TestFilter1</filter-name>
+        <filter-class>com.javaweb.filter.TestFilter1</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>TestFilter1</filter-name>
+        <url-pattern>/test.jsp</url-pattern>
+    </filter-mapping>
+
+
+    <filter>
+        <filter-name>TestFilter2</filter-name>
+        <filter-class>com.javaweb.filter.TestFilter2</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>TestFilter2</filter-name>
+        <url-pattern>/test.jsp</url-pattern>
+    </filter-mapping>
+
 </web-app>

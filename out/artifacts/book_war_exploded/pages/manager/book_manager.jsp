@@ -23,7 +23,6 @@
 				// 在事件的function函数中，有一个this对象。这个this对象，是当前正在响应事件的dom对象。
 				//   confirm是确认提示框函数
 				return confirm("你确定要删除书名为： " + $(this).parent().parent().find("td").eq(1).text() + "的图书吗?");
-				// return false// 阻止元素的默认行为===不提交请求
 			});
 		});
 	</script>
@@ -60,7 +59,7 @@
 					<td>${book.author}</td>
 					<td>${book.sales}</td>
 					<td>${book.stock}</td>
-					<td><a href="manager/bookServlet?action=getBook&id=${book.id}&pageNo=${requestScope.page.pageNo}">修改</a></td>
+					<td><a href="manager/bookServlet?action=getBook&id=${book.id}&pageNo=${requestScope.page.pageNo}" target="_self">修改</a></td>
 <%--					class="deleteClass"绑定一个单击事件，跳窗确认删除的信息--%>
 					<td><a class="deleteClass" href="manager/bookServlet?action=delete&id=${book.id}&pageNo=${requestScope.page.pageNo}">删除</a></td>
 				</tr>
@@ -79,17 +78,17 @@
 			</tr>	
 		</table>
 		<div id="page_nav">
-            <c:if test="${requestScope.page.pageNo > 1}">
-                <a href="manager/bookServlet?action=page&pageNo=1">首页</a>
-                <a href="manager/bookServlet?action=page&pageNo=${requestScope.page.pageNo-1}">上一页</a>
+            <c:if test="${requestScope.page.pageNo > 1}" >
+                <a href="${requestScope.page.url}&pageNo=1" target="_self">首页</a>
+                <a href="${requestScope.page.url}&pageNo=${requestScope.page.pageNo-1}" target="_self">上一页</a>
             </c:if>
 
 			<a href="#">${requestScope.page.pageNo-1}</a>
 			【${requestScope.page.pageNo}】
 			<a href="#">${requestScope.page.pageNo+1}</a>
             <c:if test="${requestScope.page.pageNo < requestScope.page.pageTotal}">
-                <a href="manager/bookServlet?action=page&pageNo=${requestScope.page.pageNo+1}">下一页</a>
-                <a href="manager/bookServlet?action=page&pageNo=${requestScope.page.pageTotal}">末页</a>
+                <a href="${requestScope.page.url}&pageNo=${requestScope.page.pageNo+1}" target="_self">下一页</a>
+                <a href="${requestScope.page.url}&pageNo=${requestScope.page.pageTotal}" target="_self">末页</a>
             </c:if>
 
 			共${requestScope.page.pageTotal}页，
@@ -97,21 +96,6 @@
             到第<input value="4" name="pn" id="pn_input"/>页
 			<input id="searchPaheBtn" type="button" value="确定">
 
-<%--            <script type="text/javascript">--%>
-
-<%--                $(function () {--%>
-<%--                    // 跳到指定的页码--%>
-<%--                    $("#searchPageBtn").click(function () {--%>
-<%--                        var pageNo = $("#pn_input").val();--%>
-<%--                        &lt;%&ndash;var pageTotal = ${requestScope.page.pageTotal};&ndash;%&gt;--%>
-<%--                        &lt;%&ndash;alert(pageTotal);&ndash;%&gt;--%>
-<%--                        // javaScript语言中提供了一个location地址栏对象--%>
-<%--                        // 它有一个属性叫href.它可以获取浏览器地址栏中的地址--%>
-<%--                        // href属性可读，可写--%>
-<%--                        location.href = "${pageScope.basePath}${ requestScope.page.url }&pageNo=" + pageNo;--%>
-<%--                    });--%>
-<%--                });--%>
-<%--            </script>--%>
 
 		</div>
 

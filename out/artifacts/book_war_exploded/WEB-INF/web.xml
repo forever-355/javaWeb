@@ -44,14 +44,47 @@
     </servlet-mapping>
 
 
-
     <servlet>
         <servlet-name>ClientBookServlet</servlet-name>
         <servlet-class>com.javaWeb.web.ClientBookServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ClientBookServlet</servlet-name>
-        <url-pattern>/client/clientBookServlet</url-pattern>
+        <url-pattern>/clientBookServlet</url-pattern>
     </servlet-mapping>
+
+
+
+    <servlet>
+        <servlet-name>CartServlet</servlet-name>
+        <servlet-class>com.javaWeb.web.CartServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CartServlet</servlet-name>
+        <url-pattern>/cartServlet</url-pattern>
+    </servlet-mapping>
+
+
+
+    <servlet>
+        <servlet-name>OrderServlet</servlet-name>
+        <servlet-class>com.javaWeb.web.OrderServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OrderServlet</servlet-name>
+        <url-pattern>/orderServlet</url-pattern>
+    </servlet-mapping>
+
+
+
+    <filter>
+        <filter-name>FilterManager</filter-name>
+        <filter-class>com.javaWeb.filter.FilterManager</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>FilterManager</filter-name>
+<!--        拦截manager底下的所有内容-->
+        <url-pattern>/pages/manager/*</url-pattern>
+    </filter-mapping>
 
 </web-app>

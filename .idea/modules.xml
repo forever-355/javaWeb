@@ -11,7 +11,6 @@
       <module fileurl="file://$PROJECT_DIR$/08_jsonAjaxI18n/08_jsonAjaxI18n.iml" filepath="$PROJECT_DIR$/08_jsonAjaxI18n/08_jsonAjaxI18n.iml" />
       <module fileurl="file://$PROJECT_DIR$/0999_jQuary/0999_jQuary.iml" filepath="$PROJECT_DIR$/0999_jQuary/0999_jQuary.iml" />
       <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/javaWeb.iml" filepath="$PROJECT_DIR$/.idea/javaWeb.iml" />
     </modules>
   </component>
 </project>

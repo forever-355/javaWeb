@@ -127,7 +127,8 @@ div{
 
 .login_banner{
     height:475px;
-    background-color: #39987c;
+    background-color: #d0a968;
+/*    d0a968 注册页面背景颜色*/
 }
 
 .login_form{
@@ -137,6 +138,7 @@ div{
     margin-right:50px;
     margin-top: 50px;
     background-color: #fff;
+
 }
 
 #content {
@@ -190,7 +192,8 @@ h1 {
 }
 
 #sub_btn{
-    background-color: #39987c;
+    /*注册和登录背景颜色*/
+    background-color: #d0a968;
     border: none;
     color: #fff;
     width: 360px;
