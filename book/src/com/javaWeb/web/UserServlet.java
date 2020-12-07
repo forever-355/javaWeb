@@ -1,5 +1,6 @@
 package com.javaWeb.web;
 
+import com.google.gson.Gson;
 import com.javaWeb.pojo.User;
 import com.javaWeb.service.UserService;
 import com.javaWeb.service.impl.UserServiceImpl;
@@ -13,11 +14,29 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import java.util.HashMap;
 import java.util.Map;
 
 public class UserServlet extends BaseServlet {
 
     private UserService userService = new UserServiceImpl();
+
+    protected void ajaxUsername(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        //获取请求的参数username
+        String username = req.getParameter("username");
+        //调用userService.existsUsername() 检查用户名是否可用
+        boolean existsUsername = userService.existsUsername(username);
+        //把返回的结果封装称为map对象
+        Map<String,Object> resultMap = new HashMap<>();
+        resultMap.put("existsUsername",existsUsername);
+
+        Gson gson = new Gson();
+        //把resultMap转换成为字符串
+        String json = gson.toJson(resultMap);
+
+        resp.getWriter().write(json);
+
+    }
 
     //1.处理登录的方法
     protected void login(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
